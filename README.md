@@ -10,6 +10,8 @@
 
 </details>
 
+<hr> 
+
 ## Data Analysis with Python
 
 ![Slide 1](certificates/data_analysis_with_python.jpg)
