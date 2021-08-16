@@ -14,16 +14,16 @@
 
 ## Data Analysis with Python
 
-![Slide 1](certificates/data_analysis_with_python.jpg)
+![Slide 1](certificates/data_analysis_with_python.jpeg)
 <a href="#top">Back to top</a>
 
 ## Machine Learning with Python
 
-![Slide 2](certificates/machine_learning_with_python.jpg)
+![Slide 2](certificates/machine_learning_with_python.jpeg)
 <a href="#top">Back to top</a>
 
 ## Databases and SQL for Data Science with Python
 
-![Slide 3](certificates/databases_and_sql_for_data_science_with_python.jpg)
+![Slide 3](certificates/databases_and_sql_for_data_science_with_python.jpeg)
 <a href="#top">Back to top</a>
 
